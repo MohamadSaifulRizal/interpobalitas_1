@@ -1,0 +1,7 @@
+Perbedaan mendasar antara GET dengna POST adalah GET digunakan untuk mengambil data
+dari server sedangkan POST digunakan mengirim data ke server. dan, perbedaan keduanya
+dengan DELETE ialah DELETE digunakan untuk menghapus data di server.
+
+skenario terbaik menggunakan ketiganya: POST digunakan untuk mengambil data pengguna dari sebuah aplikasi.
+                                        GET digunakan untuk menambah posting baru ke blog atau mengirim form pendaftaran.
+                                        DELETE digunakan untuk menghapus akun pengguana yang tidak aktif dari sistem.
